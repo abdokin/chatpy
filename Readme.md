@@ -1,4 +1,3 @@
-Sure, here's a README file for the provided server and client scripts:
 
 ### Chat
 
